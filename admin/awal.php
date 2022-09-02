@@ -120,7 +120,7 @@ if ( !isset($_SESSION["idinv"])) {
       <div id="page-wrapper">
         <div class="row">
           <div class="col-lg-12">
-            <h1 class="page-header">Selamat Datang, <?php echo $r['nama']; ?> | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+            <h1 class="page-header">Selamat Datang, <?php echo $r['nama']; ?> 
             </h1>
           </div>
         </div>
